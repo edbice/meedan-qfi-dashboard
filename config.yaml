@@ -24,7 +24,7 @@ site_name: Technology in International Education
 # number of full featured posts to display on front
 featured_count: 0
 # number of excerpted posts to display on front
-excerpt_count: 6
+excerpt_count: 20
 
 # number of other articles to reference at bottom of each article
 other_articles_max: 3
