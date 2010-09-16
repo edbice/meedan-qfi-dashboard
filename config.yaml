@@ -12,22 +12,17 @@ data_sources:
 #   % rake deploy:rsync
 deploy:
   default:
-    dst: "mgutz_com:www/nanoc3_blog"
+    dst: "meedan.net:www/qfi"
     options: ['-ave ssh', '--exclude=.DS_Store', '--exclude=*~']
 
 # domain to which this site is deployed
-base_url: http://nanoc-blog-kit.mgutz.com
-
-google_analytics:
-  domain: mgutz.com
-  site_id: UA-9655468-1
+base_url: http://qfi.meedan.net
 
 # currently used by logo
-site_name: nanoc3_blog
+site_name: Technology in International Education
 
 # number of full featured posts to display on front
 featured_count: 0
-
 # number of excerpted posts to display on front
 excerpt_count: 6
 
@@ -35,5 +30,4 @@ excerpt_count: 6
 other_articles_max: 3
 
 # DISQUS Site Shortname. Comment out to disable.
-disqus_shortname: nanoc3-blog
-
+disqus_shortname: meedan-qfi
