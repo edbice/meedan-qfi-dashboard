@@ -22,7 +22,6 @@ $border_color: #bbbbbb
   font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif
 
 =serif
-  //font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif
   font-family: Georgia, Cambria, "Times New Roman", Times, serif
 
 =logo-font
@@ -119,7 +118,6 @@ pre
   padding: 0.5em
 
 #header
-  display: none
   margin-bottom: 2em
   overflow: auto
   .logo
@@ -132,8 +130,7 @@ pre
     +logo-font
     padding: 0 0.3em
     bottom-margin: 0.7em
-    // css3 inset effect
-    //text-shadow: 0px -1px 1px #aaa
+    text-shadow: 0px -1px 1px #aaa
     a
       +sans
       color: $logo_color
@@ -142,9 +139,9 @@ pre
       +logo-font
       text-decoration: none
       &:link, &:visited
-        //color: #000 !important
+        color: #000 !important
       &:hover
-        //color: #000 !important
+        color: #000 !important
         border-bottom: solid 1px $logo_color
         text-decoration: none
   #nav
@@ -173,7 +170,7 @@ pre
   margin-top: 3em
   text-align: right
 
-#sticky
+#welcome
   border: 3px double #eee
   margin-bottom: 3.2em
   .body
@@ -247,8 +244,6 @@ a.tag
     margin-bottom: 0
     font-size: 0.5em !important
 
-#header, #taglist, #sticky
-  display: none
 
 .excerpt
   font-size: 1.4em

@@ -1,9 +1,9 @@
 ---
-title: nanoc3 blog starter kit
+title: Language Learning Tools
 ---
 
-#sticky
-  - item = item_by_identifier('/sticky/')
+#welcome
+  - item = item_by_identifier('/welcome/')
   - if item[:title]
     .title= item[:title]
   .body
@@ -26,7 +26,6 @@ title: nanoc3 blog starter kit
 
 .clear
 
--# for SEO, but make it disappear
 #taglist
   - tags = count_tags()
   - tags.each.sort_by {|k,v| k}.each do |tag_count|
