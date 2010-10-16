@@ -1,7 +1,7 @@
 ---
-title: Interview with Sarah teacher
+title: Interview with Sarah
 kind: article
-tags: [interview:english, teacher, sarah]
+tags: [interview]
 created_at: 2010/9/15
 excerpt: Interview with Sarah
 keywords:

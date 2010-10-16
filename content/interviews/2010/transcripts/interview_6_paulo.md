@@ -1,9 +1,9 @@
 ---
-title: Interview with Paulo teacher
+title: Interview with Paulo
 kind: article
-tags: [interview:english, teacher, katherine]
+tags: [interview]
 created_at: 2010/9/15
-excerpt: Interview with Paulo
+excerpt: Discussing the aspects of managing a course in Brazil.
 keywords:
 interviewer: Chris Blow
 ---

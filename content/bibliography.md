@@ -244,6 +244,33 @@ Schacht, Paul, "The Collaborative Writing Project", Using Wiki in Education.
 
 Young, Indi, Mental Models: Aligning Design Strategy with Human Behavior. Rosenfeld Media, February 2008.
 
+### Cultura
+
+“Internet-mediated Intercultural Foreign Language Education: The Cultura Project,” Beth Bauer (Brown), Lynne deBenedette (Brown), Gilberte Furstenberg (MIT), Sabine Levet (Brandeis), Shoggy Waryn (Brown), in Internet-mediated Intercultural Foreign Language Education, Julie A. Belz and Steven L.Thorne, editors, Boston: Heinle & Heinle, 2006 (pp. 31-62)
+http://www.personal.psu.edu/slt13/589_s2007/BauerEtAl_2ch_1st.PDF
+
+“Using the Web to Develop Students’ In-depth Understanding of Foreign Cultural Attitudes and Values,” Sabine Levet and Shoggy Waryn, in Changing Language Education through CALL, Randall P. Donaldson and Margaret Haggstrom, editors. New York: Routledge, 2006 (pp. 95-118)
+
+“Reading Between the Cultural Lines,” G. Furstenberg, in Peter Patrikis, ed., Reading Between the Lines: Perspectives on Foreign Language Literacies, Yale University Press, New Haven, CT . Spring 2003.
+
+“A Cross-cultural, Web-based approach to Developing Students' Understanding of a Foreign Culture,” co-authored with S Waryn, David Brown, ed., Interactive learning - Vignettes from America's Most Wired Campuses, Anker Publishing Co., Boston, MA, 2000.
+
+“Using communication tools to foster cross-cultural understanding”, G. Furstenberg, NFLRC Symposium 2004
+http://nflrc.hawaii.edu/NetWorks/NW44/furstenberg.htm
+
+“Constructing French-American Understanding: the Cultura project,” G. Furstenberg. Published in a special issue of Politics, Culture and Society, based on a Middlebury symposium, Déjà Views: How Americans Look at France, edited by the Institute of French Studies at New York University, Spring 2003.
+
+“Giving a Virtual Voice to the Silent Language of Culture: The Cultura Project,” co-authored with S. Levet, K. English, K. Maillet [G. Furstenberg principal author], electronic article in the Language Learning and Technology Journal, February 2001, http://llt.msu.edu/vol5num1/furstenberg/default.html
+
+“Français et Américains en vis-à-vis: dialogues et découvertes,” G. Furstenberg and Sabine Levet. The Tocqueville Review/La Revue Tocqueville, Vol. XXIII. No2. Paris. Spring 2002.
+
+“Cultures Française et Américaine en Vis-à-vis: Un Projet Interactif et Collaboratif Visant à Développer la Compréhension Interculturelle,” proceedings from the UPLEGESS Colloquium, Evry, France, 1999, pp. 59-67.
+
+“Nouveaux outils, nouvelle pédagogie,” Revue Internationale d'Education, N° 18, June 1998, Sèvres, pp. 87- 91.
+
+New Era Trends And Technologies in Foreign Language Learning: An Annotated Bibliography
+Janice B. Paulsen, University of Richmond http://imej.wfu.edu/articles/2001/1/05/demo/individualisme/index.asp
+
 ### Interface Design 
 
 ### HCI and Cognitive Science 

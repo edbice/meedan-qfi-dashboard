@@ -1,18 +1,30 @@
 ---
-title: Language Learning Tools
+title: Project Framework
 ---
 
-#welcome
-  - item = item_by_identifier('/welcome/')
-  - if item[:title]
-    .title= item[:title]
-  .body
-    != partial(item)
+-#
+  #welcome
+    - item = item_by_identifier('/welcome/')
+    - if item[:title]
+      .title= item[:title]
+    .body
+      != partial(item)
+
+
+- tags = count_tags()
+%ul
+  - tags.sort_by{|k,v| k}.each do |tag_count|
+    - tag = tag_count[0]
+    - count = tag_count[1]
+    %li
+      %a(href="/tags/#{tag}/" class='tag')= tag
+      = "x #{count}"
+
 
 - oldest_item = nil
 - current_index = 0
 
-- sorted_articles[current_index, featured_count].each do |item|
+-#= sorted_articles[current_index, featured_count].each do |item|
   - oldest_item = item
   - current_index += 1
   .featured
@@ -24,9 +36,9 @@ title: Language Learning Tools
                 
 -#= render('_other_articles_nav', :reference_item => oldest_item, :older_only => true)
 
-.clear
+-#.clear
 
-#taglist
+-#= #taglist
   - tags = count_tags()
   - tags.each.sort_by {|k,v| k}.each do |tag_count|
     - tag = tag_count[0]

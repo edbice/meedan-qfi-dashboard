@@ -1,9 +1,9 @@
 ---
 title: Interview with Dora teacher
 kind: article
-tags: [interview:english, teacher, dora]
+tags: [interview]
 created_at: 2010/9/15
-excerpt: Interview with Dora
+excerpt: With an emphasis on aspects of positive reinforcement techniques.
 keywords:
 interviewer: Chris Blow
 ---

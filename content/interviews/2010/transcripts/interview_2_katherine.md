@@ -1,7 +1,7 @@
 ---
 title: Interview with Katherine, teacher
 kind: article
-tags: [interview:english, teacher, katherine]
+tags: [interview, teacher, katherine]
 created_at: 2010/9/15
 excerpt: Interview with Katherine
 keywords:

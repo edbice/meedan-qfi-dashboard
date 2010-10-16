@@ -1,12 +1,11 @@
-//// Variables
+
 $base_color: #202020
 $heading_color: $base_color
 $normal_color: #404040
 $passive_color: #606060
 
-// ruby per wikipedia
 $logo_color: white
-$logo_background_color: #e0115f
+$logo_background_color: #003899
 
 $link_color: $heading_color
 $link_hover_color: #004E99
@@ -17,6 +16,8 @@ $tag_color: $link_color
 $border_color: #bbbbbb
 
 //// Mixins
+
++compass-css3
 
 =sans
   font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif
@@ -49,7 +50,7 @@ body
 #main
   margin: auto
   width: 720px
-  padding: 3em 0
+  padding: 0em
 
 a
   background-color: $link_bg
@@ -120,17 +121,15 @@ pre
 #header
   margin-bottom: 2em
   overflow: auto
+  width: 100%
+  bottom-margin: 0.7em
   .logo
-    -webkit-border-radius: 12px 0 0
-    -moz-border-radius: 12px 0 0
     background-color: $logo_background_color
     color: $logo_color
-    float: left
     font-size: 30px
+    text-align: center
     +logo-font
-    padding: 0 0.3em
-    bottom-margin: 0.7em
-    text-shadow: 0px -1px 1px #aaa
+    
     a
       +sans
       color: $logo_color
@@ -146,8 +145,11 @@ pre
         text-decoration: none
   #nav
     float: right
+    clear: both
     margin-top: 10px
-    text-align: right
+    text-align: center
+    clear: none
+    width: 100%
     ul
       li
         display: inline

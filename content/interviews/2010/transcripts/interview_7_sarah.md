@@ -1,3 +1,12 @@
+---
+title: Second interview with Sarah
+kind: article
+tags: [interview]
+created_at: 2010/9/15
+excerpt: Going into more detail about Sarah's experience recently with her students.
+keywords:
+interviewer: Chris Blow
+---
 
 Update on where the project is at. 
 
@@ -6,14 +15,8 @@ How's it going?
 How is your coursework going? 
 
 Flashcards? 
-Closers: 
-Photo of you? 
-Best time to contact you?
-
 I see the point -- it has a wiki that we could use. 
 but it isn't that different
-
-
 
 No one has been using it very much -- most people haven't been using it. 
 
@@ -103,18 +106,10 @@ Everyone's classes sound awesome.
 
 Here in Portland, there has definitely been a learning curve in terms of figuring out the right pace for my students--I think I was a bit too ambitious in my planning, but I've scaled back a little and it's working.
 
-pace
-
-
 So far in our unit on daily life, we've covered names, where one is from, places to go each day, ways to get there (bus, taxi, etc), where one lives, and the names of family members. I've been introducing vocab through songs or through micrologues. I've tried to concentrate on getting them to master the most important vocab associated with each one, without many extraneous words. We have focused on conjugating verbs for I and you only.  Next week I plan to introduce conjugations for he and she. Some have mastered these words more successfully than others, of course. Everyone I talked to before starting the job seemed to think that only the most motivated students would want to take Arabic, but in reality, I have quite a cross section of students, from the unmotivated to the very hard-working.  However I feel so lucky to have funding from QFI and not from the school district, because my classes are so much smaller than those of other language teachers, who have 40+ students in their beginning classes.
-
-
-
 
 One interesting thing has been that in each class I have a TA who is an Arabic-speaking ESL student. Not all are equally helpful and they are not allowed to do normal TA things like grade papers and make photocopies, but I really like having them around when we do speaking activities because it gives the students an immediate chance to interact with a native Arabic speaker. I am going to start having the TAs do more short presentations using vocabulary the class is learning so that the students will have more chances to practice listening to people other than me.
 
 It has also been a balancing act to figure out how much time is appropriate to spend on the alphabet. So far we've covered  أ، ب، ت، ث، ج، ح، خ، د، ذ، ر، ز، س، ش and the short vowels. Next week I plan to jump ahead about cover م، ه، ن، ك، ل، before we go back to the more difficult letters like ض and ص. We have been using the third edition of Alif-Baa to help us learn the alphabet (but not vocabulary), and I've found it very helpful mainly because it comes with a website that students can use to do listening exercises and drills at home; since the website tells me that they've done them, they get credit for it. Students had some difficulty navigating the website at first but have said they find it helpful.
 
 I am very impressed by Audrey's cultural activities and extracurriculars, and I want to bring more to my classroom! I've been trying to integrate a cultural perspective on whatever we're covering into my class, but we haven't had any field trips yet. Some students did get to meet members of a delegation here from Qatar and they loved it. Unfortunately the Portland mayor's office limited the number of students I could bring, but I hope we'll have more similar activities in the future. I also in contact with a local calligraphy artist who I want to come in to teach the students about calligraphy after we finish the alphabet.
-
-Any suggestions or feedback on this course of study are welcome and appreciated :)

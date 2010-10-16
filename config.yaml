@@ -19,15 +19,15 @@ deploy:
 base_url: http://qfi.meedan.net
 
 # currently used by logo
-site_name: Technology in International Education
+site_name: Framework for Understanding Technology in International Education
 
 # number of full featured posts to display on front
 featured_count: 0
 # number of excerpted posts to display on front
-excerpt_count: 20
+excerpt_count: 30
 
 # number of other articles to reference at bottom of each article
-other_articles_max: 3
+other_articles_max: 0
 
 # DISQUS Site Shortname. Comment out to disable.
-disqus_shortname: meedan-qfi
+#disqus_shortname: meedan-qfi

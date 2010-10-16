@@ -10,29 +10,12 @@ Mission
 Qatar Foundation International (QFI) is a private U.S. foundation established on the principle that education can transform for the better individual lives, communities, and nations. Our mission is to promote education as a force that builds strong local communities, facilitates collaboration across geographical, social, and cultural boundaries, and builds a network of global citizens who communicate effectively and work together to find solutions to pressing global problems.
 QFI will implement this mission through innovative educational and volunteer programs, which inspire lasting exchanges of experience and knowledge. Our programmatic focus is on interrelated issues of global importance: education, community engagement, technology, and health. QFI’s vision is of a world that embraces and respects diversity, values lifelong learning, and empowers individuals to take action to shape their future
 
-Who we are
+# Who we are
 Qatar Foundation International (QFI), founded in 2007, is a private U.S. foundation dedicated to the principle that cooperative development initiatives can transform for the better individual lives and communities. Our mission is to promote education and health as forces that facilitate collaboration across geographical, social and cultural boundaries. QFI aims to build a network of global citizens who communicate effectively and work together to find solutions to pressing global problems.
 QFI is a registered 501(c)3 non-profit organization based in Washington, D.C., U.S.A
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # QFI Staff
 
- 
 ## Maggie Mitchell Salem
 #### Executive Director
 Maggie’s passion and energy for promoting education, facilitating interaction across geographic and social boundaries, and supporting local communities drives the Qatar Foundation International’s work and enthuses its staff. Maggie’s story begins in 1990 when she first traveled outside of the U.S. as a Fulbright scholar. She lived with a Syrian family in the heart of Damascus, an experience that shaped her belief that such programs should be expanded to include high school students. Maggie’s interest in the region sparked a near-20 year career focused on Middle East issues. In her tenure as Regional Director for the MENA region at the International Foundation for Electoral Systems (IFES), a leading democracy and governance NGO, Maggie implemented innovative programs in Egypt, Iraq, Iran, Jordan, Lebanon, Palestine, and Yemen. As the first Director of Communications and External Relations at the Middle East Institute, she developed a strategic communications plan and placed more than a dozen op-eds in American newspapers and magazines, including The Washington Post, San Francisco Chronicle, and International Herald Tribune. Prior to MEI, Maggie was a Foreign Service Officer at the U.S. Department of State and served in Mumbai, India; as a Staff Assistant to Ambassador Martin S. Indyk at the U.S. Embassy in Tel Aviv, Israel; and, as a Special Assistant to Secretary of State Madeleine Albright. Deeply committed to innovation and education, Maggie ensures that the direction of QFI remains relevant, effective, and efficient.
