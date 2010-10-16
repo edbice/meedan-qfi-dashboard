@@ -1,5 +1,5 @@
 ---
-title: Project Framework
+title: Framework overview
 kind: article
 tags: [documentation]
 created_at: 2010/9/15
@@ -20,6 +20,8 @@ Ed Bice	Meedan   Meedan Executive
 Chris Blow	     Meedan User Experience
 Cory Ondrejka    Meedan Technology
 Mohammad Kayyali Meedan Social Media Lead
+
+For other members of the team see the full personnel roster for QFI, Meedan, and our teacher team
 
 #### The idea: A social learning platform
 
@@ -70,17 +72,17 @@ As you probably have gathered, we have some ambitious goals -- and we have reali
 
 Meedan is dedicated to Arabic and English communication, and by extension we are developing a suite of tools that permit simple, transparent and high-quality translation (Open Source, for any languages, but we are focused on Arabic an English). We have spent several years working on this community model and on the technical backend, which was built in partnership with IBM researchers. Our example news application at http://meedan.net shows the capacities of some of these APIs. Put simply, Meedan is one of the web's first bilingual interfaces; the concept of intentional cross-language discussion is the kernel of our idea. Meedan's mission is to break down the language barrier online with the latest in Machine Assisted Translation and compelling, human-scale interaction design.
 
-Meedan's role is to lead a programming team into a community of teachers (rather than dragging the teachers toward the software!), and to ensure that the new platform is appropriate in every interaction. Meedan is responsible for making sure that the teacher experience is a good one for the teachers and that we do not just create something that is valuable on a technical level -- we ultimately have very practical goals. We want the teacher to succeed in the classroom. Our aim is education, software is merely a tool -- so we do not take the role of technology for granted and we in fact have seen many cases where technology in the classroom can be detrimental and wasteful. Just like many teachers, we are wary of "technology for technology's sake" -- but we know that there is great possibility, particularly in international communications technology. We have a fundamental interested in exposing students to broader culture, in addition to simply engaging students more in their work.
+Meedan's role is to lead a programming team into a community of teachers (rather than dragging the teachers toward the software!), and to ensure that the new platform is appropriate in every interaction. Meedan is responsible for making sure that the teacher experience is a good one, not just something that is valuable on a technical level -- because we ultimately have very practical goals. We want the teacher to succeed in the classroom. Our aim is education, software is merely a tool -- so we do not take the role of technology for granted and we in fact have seen many cases where technology in the classroom can be detrimental and wasteful. Just like many teachers, we are wary of "technology for technology's sake" -- but we know that there is great possibility, particularly in international communications technology. We have a fundamental interested in exposing students to broader culture, in addition to simply engaging students more in their work.
 
-Our mandate is to guarantee a compelling and viable cross-language tool for translation, discussion and education. Thus, Meedan is supplying the programming necessary to actually create a new web platform. Our present focus is on language learning, and secondarily science education. 
+Our mandate is to guarantee a compelling and viable cross-language tool for translation, discussion and education. Thus, Meedan is supplying the programming necessary to actually create a new web platform. Our present focus is on language learning, and secondarily science education.
 
 #### How will we do this?  
 
 The timeline of the project roughly looks as follows: 
 
 - Our first step was to setup the infrastructure to support the project, including servers and new support staff. 
-- Presently we have begun discussions with teachers and establish a baseline for the personality types in the focus group. Assess the limitations and possibilities of the assembled group; find new teachers if the first round is not appropriate. Deliver this 
-- Next we take feedback from the teachers to release customized versions of the software which get closer to the "perfect" software that they would like to use. If the teachers do not like the software outright, we will abandon it and document the teacher's negative reaction. Find new teachers and expand the sample toward the most relevant demographic. This is the first iteration of our feeback cycle.
+- Presently we have begun discussions with teachers and establish a baseline for the personality types in the focus group. Assess the limitations and possibilities of the assembled group.
+- Next we will expand our circle of early testers, and take feedback from the team to release customized versions of the software which get closer to the "ideal" software that they would like to use. If the teachers do not like the software outright, we will abandon it and document the teacher's negative reaction. Find new teachers and expand the sample toward the most relevant demographic. This is the first iteration of our feeback cycle.
 - Then we repeat the process of customizing software and getting feedback. 
 - In 10 months we will produce a fully functioning, thoroughly tested platform which encapsulates the best designs from the research. 
 
