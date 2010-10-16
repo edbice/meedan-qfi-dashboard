@@ -30,4 +30,4 @@ excerpt_count: 30
 other_articles_max: 0
 
 # DISQUS Site Shortname. Comment out to disable.
-#disqus_shortname: meedan-qfi
+disqus_shortname: qfi-teachers
