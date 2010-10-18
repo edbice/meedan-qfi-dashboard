@@ -186,3 +186,13 @@ def derive_created_at(item)
   end
   date
 end
+
+def summarize_files(path)
+  result = {}
+  basedir=path
+  files=Dir.glob("*.md")
+  files.each do |f|
+    partial(f.chop.chop.cho)
+  end
+  result
+end

@@ -10,8 +10,23 @@ title: Project Framework
     .body
       != partial(item)
 
+-# about us
+#about
+  - item = item_by_identifier('/about/')
+  - if item[:title]
+    .title= item[:title]
+  .body
+    != partial(item)
+
+-# features
+#features
+  .body
+    - items_with_tag("features").each do |item|
+      = render('_excerpt', :item => item) 
+    
 
 - tags = count_tags()
+
 %ul
   - tags.sort_by{|k,v| k}.each do |tag_count|
     - tag = tag_count[0]
