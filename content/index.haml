@@ -2,15 +2,13 @@
 title: Project Framework
 ---
 
--#
-  #welcome
-    - item = item_by_identifier('/welcome/')
-    - if item[:title]
-      .title= item[:title]
-    .body
-      != partial(item)
+#welcome
+  - item = item_by_identifier('/welcome/')
+  - if item[:title]
+    .title= item[:title]
+  .body
+    != partial(item)
 
--# about us
 #about
   - item = item_by_identifier('/about/')
   - if item[:title]
@@ -18,12 +16,20 @@ title: Project Framework
   .body
     != partial(item)
 
--# features
 #features
   .body
     - items_with_tag("features").each do |item|
       = render('_excerpt', :item => item) 
-    
+
+#tools
+  .body
+    - items_with_tag("tools").each do |item|
+      = render('_excerpt', :item => item)
+
+#teachers
+  .body
+    - items_with_tag("teacher").each do |item|
+      = render('_excerpt', :item => item)
 
 - tags = count_tags()
 
@@ -35,6 +41,7 @@ title: Project Framework
       %a(href="/tags/#{tag}/" class='tag')= tag
       = "(#{count})"
 
+%h1 Chronological
 
 - oldest_item = nil
 - current_index = 0
