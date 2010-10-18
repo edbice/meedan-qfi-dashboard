@@ -1,4 +1,3 @@
-output/*
 tmp/*
 *.swp
 *~
@@ -6,3 +5,4 @@ tmp/*
 .bundle
 output.diff
 PRIVATE_QFI_NOTES
+QFI-Arabic-Program_interviews.numbers
