@@ -9,59 +9,57 @@ title: Project Framework
   .body
     != partial(item)
 
-#about
-  - item = item_by_identifier('/about/')
-  - if item[:title]
-    .title= item[:title]
-  .body
-    != partial(item)
-
 #features
   .body
+    %h2 Features We're Building
     - items_with_tag("features").each do |item|
       = render('_excerpt', :item => item) 
 
 #tools
   .body
+    %h2 Tools We Use
     - items_with_tag("tools").each do |item|
       = render('_excerpt', :item => item)
+-#
+  #teachers
+    %h2 Our Partners
+    .body
+      - items_with_tag("teacher").each do |item|
+        = render('_excerpt', :item => item)
 
-#teachers
-  .body
-    - items_with_tag("teacher").each do |item|
-      = render('_excerpt', :item => item)
+-# 
+  tags = count_tags()
 
-- tags = count_tags()
+-#
+  %ul#tags
+    - tags.sort_by{|k,v| k}.each do |tag_count|
+      - tag = tag_count[0]
+      - count = tag_count[1]
+      %li
+        %a(href="/tags/#{tag}/" class='tag')= tag
+        = "(#{count})"
 
-%ul
-  - tags.sort_by{|k,v| k}.each do |tag_count|
-    - tag = tag_count[0]
-    - count = tag_count[1]
-    %li
-      %a(href="/tags/#{tag}/" class='tag')= tag
-      = "(#{count})"
+  %h1 Chronological
 
-%h1 Chronological
+  - oldest_item = nil
+  - current_index = 0
 
-- oldest_item = nil
-- current_index = 0
+  -#= sorted_articles[current_index, featured_count].each do |item|
+    - oldest_item = item
+    - current_index += 1
+    .featured
+      = render('_article', :item => item, :is_embedded => true)
 
--#= sorted_articles[current_index, featured_count].each do |item|
-  - oldest_item = item
-  - current_index += 1
-  .featured
-    = render('_article', :item => item, :is_embedded => true)
-
-- sorted_articles[current_index, excerpt_count].each do |item|
-  - oldest_item = item
-  = render('_excerpt', :item => item) 
+  - sorted_articles[current_index, excerpt_count].each do |item|
+    - oldest_item = item
+    = render('_excerpt', :item => item) 
                 
--#= render('_other_articles_nav', :reference_item => oldest_item, :older_only => true)
+  -#= render('_other_articles_nav', :reference_item => oldest_item, :older_only => true)
 
--#.clear
+  -#.clear
 
--#= #taglist
-  - tags = count_tags()
-  - tags.each.sort_by {|k,v| k}.each do |tag_count|
-    - tag = tag_count[0]
-    %a(href="/tags/#{tag}/" class='tag')= tag
+  -#= #taglist
+    - tags = count_tags()
+    - tags.each.sort_by {|k,v| k}.each do |tag_count|
+      - tag = tag_count[0]
+      %a(href="/tags/#{tag}/" class='tag')= tag
