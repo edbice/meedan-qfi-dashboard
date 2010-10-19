@@ -18,6 +18,7 @@ Our approach is to continuously gather material which informs the strategy of ou
 
 # About QFI
 Qatar Foundation International (QFI), founded in 2007, is a private U.S. foundation dedicated to the principle that cooperative development initiatives can transform for the better individual lives and communities. Our mission is to promote education and health as forces that facilitate collaboration across geographical, social and cultural boundaries. QFI aims to build a network of global citizens who communicate effectively and work together to find solutions to pressing global problems.
+
 QFI is a registered 501(c)3 non-profit organization based in Washington, D.C., U.S.A
 
 # QFI’s Mission and Mandate
