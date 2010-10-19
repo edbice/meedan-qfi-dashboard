@@ -13,3 +13,7 @@
 
   .body
     != content || partial(item)
+    
+    - if @item[:flickr_set]
+      - setid = @item[:flickr_set]
+      %iframe{:align => "center", :src => "http://www.flickr.com/slideShow/index.gne?group_id=&user_id=26097071@N05&set_id=#{setid}&text=", :frameBorder=>"0", :width=>"800", :height=>"500", :scrolling=>"no"}

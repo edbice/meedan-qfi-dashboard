@@ -1,0 +1,46 @@
+@import "compass/utilities"
+@import "compass/css3/shared"
+@import "compass/css3/border-radius"
+
+$base_color: #202020
+$heading_color: $base_color
+$normal_color: #404040
+$passive_color: #606060
+$logo_color: white
+$logo_background_color: #003899
+$link_color: $heading_color
+$link_hover_color: #004E99
+$link_bg: white
+$tag_color: lighten($link_color,50%)
+$border_color: #bbbbbb
+$body_bkg: #F8F6E8
+$warm_border: darken($body_bkg, 9%)
+
+$gutter: 10px
+
+=sans
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif
+
+=serif
+  font-family: Georgia, Cambria, "Times New Roman", Times, serif
+
+=logo-font
+  font-family: baskerville, palatino, "palatino linotype", georgia, serif
+
+=monospace
+  font-family: Monaco, Consolas, "Lucida Console", "Courier New", Courier, monospace
+
+=ul_left
+  ul
+    padding: 0
+    list-style-type: none
+
+=homepage_box($width= "200px")
+  background: #fff
+  float: right
+  width= $width
+  +border-radius(6px)
+  border: 2px solid $warm_border
+  margin-right: $gutter
+  h1, h2, h3, p
+    padding: $gutter

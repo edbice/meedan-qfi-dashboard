@@ -1,0 +1,123 @@
+@import _base.sass
+@import _shared.sass
+
+ul.tags
+  display: none
+
+.excerpt
+  font-size: 1.4em
+  border-bottom: 1px solid $warm_border
+  display: block
+  margin: 0
+  h2
+    margin: 0
+    img
+      float: left
+      width: 50px
+#flickr
+  +homepage_box("500px")
+  float: right
+  background: #000
+  h2
+    color: #fff!important
+  
+#tools
+  +homepage_box("200px")
+  img
+    width: 19px
+    padding-top: 5px
+  h2
+    font-size: 0.6em
+    font-weight: 700
+    padding: 2px
+    a
+      line-height: 30px!important
+  p 
+    font-size: 0.6em
+
+#features
+  +homepage_box("400px")  
+  p
+    font-size: 0.8em
+
+#header
+  margin-bottom: 2em
+  overflow: auto
+  width: 100%
+  bottom-margin: 0.7em
+  .logo
+    background-color: $logo_background_color
+    color: $logo_color
+    font-size: 30px
+    text-align: center
+    +logo-font
+
+    a
+      +sans
+      color: $logo_color
+      background-color: $logo_background_color
+      border: none
+      +logo-font
+      text-decoration: none
+      &:link, &:visited
+        color: #000 !important
+      &:hover
+        color: #000 !important
+        border-bottom: solid 1px $logo_color
+        text-decoration: none
+  #nav
+    float: right
+    clear: both
+    margin-top: 10px
+    text-align: center
+    clear: none
+    width: 100%
+    ul
+      li
+        display: inline
+  .byline
+    color: $passive_color
+
+#other-articles
+  margin-top: 4em
+  +ul_left
+  h3
+    margin: 0 0 0.5em
+  .newer
+    text-align: right
+    float: right
+  .older
+    float: left
+
+#taglist
+  font-size: 0.8em
+  margin-top: 3em
+  text-align: right
+
+#welcome
+  border: 3px double #eee
+  margin-bottom: 3.2em
+  margin: auto
+  text-align: center
+  p
+    margin: 0
+    line-height: 4em
+
+a.tag
+  color: $tag_color !important
+  padding: 0 0.1em 0
+  &:hover
+    color: $link_hover_color !important
+
+ul.tags
+  text-transform: uppercase
+  margin-left: $gutter
+
+.tags-page
+  +ul_left
+
+#main
+  width: 100%
+
+.dsq-dc-logo
+  display: none !important

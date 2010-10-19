@@ -136,12 +136,3 @@ If you imagine for a moment, there are hundreds of types of software available t
 
 We have an incremental and conservative approach to requirements gathering and application development. We hope to close the gap between the developers, designers, managers, and all stakeholders, to create something that has undeniable and concrete value to teachers in the classroom. We are all too aware of many previous failed experiments in the classroom. Our opportunity, as designers, is to simply listen to the wise teachers who have seen many false starts and unrealized opportunities. We have seen some remarkable technologies emerge in the last few years. But in the classroom, the benefits of these technologies have been sporadic and uneven -- what are the underlying dynamics at work? What are the contraints and needs of the teachers? How can we build software that can maximize the connective capacity of the new communications technologies?
 
-===========================================================
-= Bibliographic citation of research under consideration =
-===========================================================   
-
-To understand to contours of our background research, please see the bibliography, which is collaboratively built. 
-
-<%= include "bibliography.md" %>
-
-

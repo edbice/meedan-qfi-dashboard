@@ -4,28 +4,26 @@ title: Project Framework
 
 #welcome
   - item = item_by_identifier('/welcome/')
-  - if item[:title]
-    .title= item[:title]
-  .body
-    != partial(item)
+  != partial(item)
+
+#flickr
+  %h2 Latest Pictures on Flickr
 
 #features
-  .body
-    %h2 Features We're Building
-    - items_with_tag("features").each do |item|
-      = render('_excerpt', :item => item) 
+  %h2 Features We're Building
+  - items_with_tag("features").each do |item|
+    = render('_excerpt', :item => item) 
 
 #tools
-  .body
-    %h2 Tools We Use
-    - items_with_tag("tools").each do |item|
-      = render('_excerpt', :item => item)
+  %h2 Tools We Use
+  - items_with_tag("tools").each do |item|
+    = render('_excerpt', :item => item)
+
 -#
   #teachers
     %h2 Our Partners
-    .body
-      - items_with_tag("teacher").each do |item|
-        = render('_excerpt', :item => item)
+    - items_with_tag("teacher").each do |item|
+      = render('_excerpt', :item => item)
 
 -# 
   tags = count_tags()

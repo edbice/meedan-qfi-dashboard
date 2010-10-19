@@ -1,213 +1,217 @@
 --- 
-:"content/2010/interview_6_paulo.md": 
-  :created_at: 2010/9/15
-  :updated_at: 2010-09-15 19:26:44 -07:00
-  :digest: 5c9ef4719d62aa7bf0d2e286920410c1dabd326b
-:"content/features/curriculum.md": 
-  :created_at: 2010/9/18
-  :updated_at: 2010-10-15 14:02:47 -07:00
-  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
-:"content/2010/01-03-stylesheet_article.haml": 
-  :created_at: 2010/01/03
-  :updated_at: 2010-06-15 15:14:42 -07:00
-  :digest: f2a1d55406e72627d1b85366492f38570f9ff000
-:"content/draft_project_framework.md": 
-  :created_at: 2010/9/15
-  :updated_at: 2010-10-15 13:51:04 -07:00
-  :digest: a339b8e183c04bc8ecf9cae294a70a5dda0dae72
-:"content/overview.md": 
-  :created_at: 2010/9/15
-  :updated_at: 2010-10-15 21:56:35 -07:00
-  :digest: ddefd8317c8c7287b2353b39f6f421d2e50053fb
-:"content/tools/twitter.md": 
-  :created_at: 2010/9/18
-  :updated_at: 2010-10-15 17:54:38 -07:00
-  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
-:"content/interviews/2010/transcripts/interview_4_sarah.md": 
-  :created_at: 2010/9/15
-  :updated_at: 2010-09-26 03:22:13 -07:00
-  :digest: 29ee5a4638872f7887c1cc02c33745d3dc6c6268
-:"content/2010/01-13-erb-markdown-test.html.md": 
-  :created_at: 2010/01/13
-  :updated_at: 2010-06-15 15:14:42 -07:00
-  :digest: b0b78b830d428a5ec9015c0decccaf5cde7d6653
-:"content/interviews/2010/transcripts/interview_1_audrey.md": 
-  :created_at: 2010/9/15
-  :updated_at: 2010-09-26 03:22:13 -07:00
-  :digest: 40c3f8d5c9a744106b75efbd0583fc06a0cf5943
-:"content/feature_definition.md": 
-  :created_at: 2010/9/18
-  :updated_at: 2010-10-15 12:28:49 -07:00
-  :digest: 70f16bda2297ece7f39745cd8864dff4a8845f58
-:"content/documentation/drafts/architecture.md": 
-  :created_at: 2010/9/15
-  :updated_at: 2010-10-12 19:15:35 -07:00
-  :digest: 0c68e624c1ffcf0d093f8291ab8e566a4c1fb165
-:"content/features/mapping.md": 
-  :created_at: 2010/9/18
-  :updated_at: 2010-10-15 15:48:35 -07:00
-  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
-:"content/documentation/bibliography.md": 
-  :created_at: 2010/9/15
-  :updated_at: 2010-10-12 19:12:39 -07:00
-  :digest: 4c9c431907d53f334578ba8a5294f8d1b9bc168e
-:"content/features/rating.md": 
-  :created_at: 2010/9/18
-  :updated_at: 2010-10-15 14:03:38 -07:00
-  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
-:"content/tools/youtube.md": 
-  :created_at: 2010/9/18
-  :updated_at: 2010-10-15 17:55:40 -07:00
-  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
-:"content/features/enrichment.md": 
-  :created_at: 2010/9/18
-  :updated_at: 2010-10-15 14:02:23 -07:00
-  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
 :"content/documentation/feature_definition.md": 
-  :created_at: 2010/9/18
-  :updated_at: 2010-10-15 12:28:49 -07:00
   :digest: 70f16bda2297ece7f39745cd8864dff4a8845f58
-:"content/2010/01-15-getting_started_with_nanoc3_blog.html.md": 
-  :created_at: 2010/01/15
-  :updated_at: 2010-09-15 16:44:35 -07:00
-  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
-:"content/2010/interview_2_katherine.md": 
-  :created_at: 2010/9/15
-  :updated_at: 2010-09-15 17:39:13 -07:00
-  :digest: 4dbcff08aadab84b37f4a66b28c7b8e848b991e0
-:"content/interviews/2010/transcripts/interview_7_sarah.md": 
-  :created_at: 2010/9/15
-  :updated_at: 2010-10-15 17:48:17 -07:00
-  :digest: e219194ffcd5b5402d88f36011d069d8173145bf
-:"content/2010/interview_3_rana.md": 
-  :created_at: 2010/9/15
-  :updated_at: 2010-09-15 18:11:05 -07:00
-  :digest: e2bf7560f990708e5c4bc2d93d0242d3c802e1bc
-:"content/architecture.md": 
-  :created_at: 2010/9/15
-  :updated_at: 2010-10-12 19:15:35 -07:00
-  :digest: 0c68e624c1ffcf0d093f8291ab8e566a4c1fb165
-:"content/2010/interview_5_dora.md": 
-  :created_at: 2010/9/15
-  :updated_at: 2010-09-15 19:25:56 -07:00
-  :digest: ec8f2e116d7edde9c5aaa6ff3cd4252b7ac05c95
-:"content/tools/atlas.md": 
+  :updated_at: 2010-10-15 12:28:49 -07:00
   :created_at: 2010/9/18
-  :updated_at: 2010-10-15 17:22:54 -07:00
-  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
-:"content/tools/yallah.md": 
-  :created_at: 2010/9/18
-  :updated_at: 2010-10-15 17:54:58 -07:00
-  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
-:"content/features/profile.md": 
-  :created_at: 2010/9/18
-  :updated_at: 2010-10-15 14:02:57 -07:00
-  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
-:"content/documentation/drafts/draft_project_framework.md": 
-  :created_at: 2010/9/15
-  :updated_at: 2010-10-12 19:11:55 -07:00
-  :digest: ade896265d754d0b12fa9a18d7446ff016e8021e
-:"content/documentation/drafts/bibliography.md": 
-  :created_at: 2010/9/15
-  :updated_at: 2010-10-12 19:12:39 -07:00
-  :digest: 4c9c431907d53f334578ba8a5294f8d1b9bc168e
-:"content/documentation/architecture.md": 
-  :created_at: 2010/9/15
-  :updated_at: 2010-10-12 19:15:35 -07:00
-  :digest: 0c68e624c1ffcf0d093f8291ab8e566a4c1fb165
-:"content/interviews/2010/transcripts/interview_6_paulo.md": 
-  :created_at: 2010/9/15
-  :updated_at: 2010-09-26 03:22:13 -07:00
-  :digest: 5c9ef4719d62aa7bf0d2e286920410c1dabd326b
-:"content/features/sharing.md": 
-  :created_at: 2010/9/18
-  :updated_at: 2010-10-15 14:05:46 -07:00
-  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
-:"content/2010/interview_4_sarah.md": 
-  :created_at: 2010/9/15
-  :updated_at: 2010-09-15 18:39:33 -07:00
-  :digest: 29ee5a4638872f7887c1cc02c33745d3dc6c6268
-:"content/features/study.md": 
-  :created_at: 2010/9/18
-  :updated_at: 2010-10-15 17:48:07 -07:00
-  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
-:"content/tools/facebook.md": 
-  :created_at: 2010/9/18
-  :updated_at: 2010-10-15 17:53:06 -07:00
-  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
-:"content/tools/vue.md": 
-  :created_at: 2010/9/18
-  :updated_at: 2010-10-15 16:57:58 -07:00
-  :digest: 016de034f374b50d14ad6df4461b7fddc93dfbcc
-:"content/2010/interview_1_audrey.md": 
-  :created_at: 2010/9/15
-  :updated_at: 2010-09-15 17:02:30 -07:00
-  :digest: 40c3f8d5c9a744106b75efbd0583fc06a0cf5943
-:"content/features/video.md": 
-  :created_at: 2010/9/18
-  :updated_at: 2010-10-15 14:03:04 -07:00
-  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
 :"content/interviews/2010/transcripts/interview_3_rana.md": 
-  :created_at: 2010/9/15
-  :updated_at: 2010-09-26 03:22:13 -07:00
   :digest: e2bf7560f990708e5c4bc2d93d0242d3c802e1bc
-:"content/tools/delicious.md": 
-  :created_at: 2010/9/18
-  :updated_at: 2010-10-15 17:51:42 -07:00
-  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
-:"content/features/discussion.md": 
-  :created_at: 2010/9/18
-  :updated_at: 2010-10-15 14:04:14 -07:00
-  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
-:"content/2009/12-31-end_of_year.haml": 
-  :created_at: 2009/12/31
-  :updated_at: 2010-06-15 15:14:42 -07:00
-  :digest: a26aafbc69e5e95b7fe2b258bef9513fadfdce5c
-:"content/features/multimedia.md": 
-  :created_at: 2010/9/18
-  :updated_at: 2010-10-15 16:12:22 -07:00
-  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
-:"content/features/translation.md": 
-  :created_at: 2010/9/18
-  :updated_at: 2010-10-15 14:05:21 -07:00
-  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
-:"content/tools/flickr.md": 
-  :created_at: 2010/9/18
-  :updated_at: 2010-10-15 17:53:42 -07:00
-  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
-:"content/interviews/2010/transcripts/interview_2_katherine.md": 
-  :created_at: 2010/9/15
   :updated_at: 2010-09-26 03:22:13 -07:00
+  :created_at: 2010/9/15
+:"content/features/video.md": 
+  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
+  :updated_at: 2010-10-15 14:03:04 -07:00
+  :created_at: 2010/9/18
+:"content/2010/interview_1_audrey.md": 
+  :digest: 40c3f8d5c9a744106b75efbd0583fc06a0cf5943
+  :updated_at: 2010-09-15 17:02:30 -07:00
+  :created_at: 2010/9/15
+:"content/draft_project_framework.md": 
+  :digest: a339b8e183c04bc8ecf9cae294a70a5dda0dae72
+  :updated_at: 2010-10-15 13:51:04 -07:00
+  :created_at: 2010/9/15
+:"content/features/study.md": 
+  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
+  :updated_at: 2010-10-18 17:43:30 -07:00
+  :created_at: 2010/9/18
+:"content/architecture.md": 
+  :digest: 0c68e624c1ffcf0d093f8291ab8e566a4c1fb165
+  :updated_at: 2010-10-12 19:15:35 -07:00
+  :created_at: 2010/9/15
+:"content/features/sharing.md": 
+  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
+  :updated_at: 2010-10-15 14:05:46 -07:00
+  :created_at: 2010/9/18
+:"content/2010/interview_2_katherine.md": 
   :digest: 4dbcff08aadab84b37f4a66b28c7b8e848b991e0
-:"content/documentation/draft_project_framework.md": 
+  :updated_at: 2010-09-15 17:39:13 -07:00
   :created_at: 2010/9/15
-  :updated_at: 2010-10-15 13:40:10 -07:00
-  :digest: ade896265d754d0b12fa9a18d7446ff016e8021e
-:"content/tools/ibis.md": 
-  :created_at: 2010/9/18
-  :updated_at: 2010-10-15 17:23:14 -07:00
-  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
-:"content/2010/01-14-markdown-test.md": 
-  :created_at: 2010/01/14
-  :updated_at: 2010-06-15 15:14:42 -07:00
-  :digest: 290196131b48b501ad9c5f340b63039991e490d9
-:"content/tools/epsilen.md": 
-  :created_at: 2010/9/18
-  :updated_at: 2010-10-15 17:52:28 -07:00
-  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
-:"content/2010/01-01-ruby_article.haml": 
-  :created_at: 2010/01/01
-  :updated_at: 2010-06-15 15:14:42 -07:00
-  :digest: 35eab6135db6e757cbec195f0d31d1ceb1b7c4d1
-:"content/documentation/delivered/feature_definition.md": 
-  :created_at: 2010/9/18
-  :updated_at: 2010-10-15 12:28:49 -07:00
-  :digest: 70f16bda2297ece7f39745cd8864dff4a8845f58
-:"content/bibliography.md": 
-  :created_at: 2010/9/15
-  :updated_at: 2010-10-15 16:04:03 -07:00
-  :digest: f925907504456f051726db25ce9eb1cfde0b0a7f
-:"content/interviews/2010/transcripts/interview_5_dora.md": 
-  :created_at: 2010/9/15
+:"content/interviews/2010/transcripts/interview_1_audrey.md": 
+  :digest: 40c3f8d5c9a744106b75efbd0583fc06a0cf5943
   :updated_at: 2010-09-26 03:22:13 -07:00
+  :created_at: 2010/9/15
+:"content/interviews/2010/transcripts/interview_4_sarah.md": 
+  :digest: 29ee5a4638872f7887c1cc02c33745d3dc6c6268
+  :updated_at: 2010-09-26 03:22:13 -07:00
+  :created_at: 2010/9/15
+:"content/documentation/drafts/draft_project_framework.md": 
+  :digest: ade896265d754d0b12fa9a18d7446ff016e8021e
+  :updated_at: 2010-10-12 19:11:55 -07:00
+  :created_at: 2010/9/15
+:"content/tools/yallah.md": 
+  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
+  :updated_at: 2010-10-15 17:54:58 -07:00
+  :created_at: 2010/9/18
+:"content/tools/atlas.md": 
+  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
+  :updated_at: 2010-10-15 17:22:54 -07:00
+  :created_at: 2010/9/18
+:"content/overview.md": 
+  :digest: c518e9aebdd293284bc24f883e4bf6a40327c5ba
+  :updated_at: 2010-10-18 15:17:29 -07:00
+  :created_at: 2010/9/15
+:"content/tools/flickr.md": 
+  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
+  :updated_at: 2010-10-15 17:53:42 -07:00
+  :created_at: 2010/9/18
+:"content/features/mapping.md": 
+  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
+  :updated_at: 2010-10-15 15:48:35 -07:00
+  :created_at: 2010/9/18
+:"content/2010/interview_4_sarah.md": 
+  :digest: 29ee5a4638872f7887c1cc02c33745d3dc6c6268
+  :updated_at: 2010-09-15 18:39:33 -07:00
+  :created_at: 2010/9/15
+:"content/interviews/2010/transcripts/interview_7_sarah.md": 
+  :digest: e219194ffcd5b5402d88f36011d069d8173145bf
+  :updated_at: 2010-10-15 17:48:17 -07:00
+  :created_at: 2010/9/15
+:"content/feature_definition.md": 
+  :digest: 70f16bda2297ece7f39745cd8864dff4a8845f58
+  :updated_at: 2010-10-15 12:28:49 -07:00
+  :created_at: 2010/9/18
+:"content/tools/epsilen.md": 
+  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
+  :updated_at: 2010-10-15 17:52:28 -07:00
+  :created_at: 2010/9/18
+:"content/tools/twitter.md": 
+  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
+  :updated_at: 2010-10-15 17:54:38 -07:00
+  :created_at: 2010/9/18
+:"content/features/profile.md": 
+  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
+  :updated_at: 2010-10-15 14:02:57 -07:00
+  :created_at: 2010/9/18
+:"content/features/rating.md": 
+  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
+  :updated_at: 2010-10-15 14:03:38 -07:00
+  :created_at: 2010/9/18
+:"content/interviews/2010/transcripts/interview_2_katherine.md": 
+  :digest: 4dbcff08aadab84b37f4a66b28c7b8e848b991e0
+  :updated_at: 2010-09-26 03:22:13 -07:00
+  :created_at: 2010/9/15
+:"content/tools/facebook.md": 
+  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
+  :updated_at: 2010-10-15 17:53:06 -07:00
+  :created_at: 2010/9/18
+:"content/2010/interview_5_dora.md": 
   :digest: ec8f2e116d7edde9c5aaa6ff3cd4252b7ac05c95
+  :updated_at: 2010-09-15 19:25:56 -07:00
+  :created_at: 2010/9/15
+:"content/2010/interview_6_paulo.md": 
+  :digest: 5c9ef4719d62aa7bf0d2e286920410c1dabd326b
+  :updated_at: 2010-09-15 19:26:44 -07:00
+  :created_at: 2010/9/15
+:"content/2010/interview_3_rana.md": 
+  :digest: e2bf7560f990708e5c4bc2d93d0242d3c802e1bc
+  :updated_at: 2010-09-15 18:11:05 -07:00
+  :created_at: 2010/9/15
+:"content/2010/01-01-ruby_article.haml": 
+  :digest: 35eab6135db6e757cbec195f0d31d1ceb1b7c4d1
+  :updated_at: 2010-06-15 15:14:42 -07:00
+  :created_at: 2010/01/01
+:"content/tools/delicious.md": 
+  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
+  :updated_at: 2010-10-15 17:51:42 -07:00
+  :created_at: 2010/9/18
+:"content/documentation/drafts/bibliography.md": 
+  :digest: 4c9c431907d53f334578ba8a5294f8d1b9bc168e
+  :updated_at: 2010-10-12 19:12:39 -07:00
+  :created_at: 2010/9/15
+:"content/features/curriculum.md": 
+  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
+  :updated_at: 2010-10-15 14:02:47 -07:00
+  :created_at: 2010/9/18
+:"content/tools/youtube.md": 
+  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
+  :updated_at: 2010-10-15 17:55:40 -07:00
+  :created_at: 2010/9/18
+:"content/interviews/2010/transcripts/interview_5_dora.md": 
+  :digest: ec8f2e116d7edde9c5aaa6ff3cd4252b7ac05c95
+  :updated_at: 2010-09-26 03:22:13 -07:00
+  :created_at: 2010/9/15
+:"content/bibliography.md": 
+  :digest: f925907504456f051726db25ce9eb1cfde0b0a7f
+  :updated_at: 2010-10-15 16:04:03 -07:00
+  :created_at: 2010/9/15
+:"content/2009/12-31-end_of_year.haml": 
+  :digest: a26aafbc69e5e95b7fe2b258bef9513fadfdce5c
+  :updated_at: 2010-06-15 15:14:42 -07:00
+  :created_at: 2009/12/31
+:"content/documentation/bibliography.md": 
+  :digest: 4c9c431907d53f334578ba8a5294f8d1b9bc168e
+  :updated_at: 2010-10-12 19:12:39 -07:00
+  :created_at: 2010/9/15
+:"content/documentation/drafts/architecture.md": 
+  :digest: 0c68e624c1ffcf0d093f8291ab8e566a4c1fb165
+  :updated_at: 2010-10-12 19:15:35 -07:00
+  :created_at: 2010/9/15
+:"content/documentation/delivered/feature_definition.md": 
+  :digest: 70f16bda2297ece7f39745cd8864dff4a8845f58
+  :updated_at: 2010-10-15 12:28:49 -07:00
+  :created_at: 2010/9/18
+:"content/features/discussion.md": 
+  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
+  :updated_at: 2010-10-15 14:04:14 -07:00
+  :created_at: 2010/9/18
+:"content/documentation/architecture.md": 
+  :digest: 0c68e624c1ffcf0d093f8291ab8e566a4c1fb165
+  :updated_at: 2010-10-12 19:15:35 -07:00
+  :created_at: 2010/9/15
+:"content/2010/01-15-getting_started_with_nanoc3_blog.html.md": 
+  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
+  :updated_at: 2010-09-15 16:44:35 -07:00
+  :created_at: 2010/01/15
+:"content/features/enrichment.md": 
+  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
+  :updated_at: 2010-10-15 14:02:23 -07:00
+  :created_at: 2010/9/18
+:"content/project_framework.md": 
+  :digest: d500c9fe280b5bd9d135422b2be7ba29aef44b67
+  :updated_at: 2010-10-18 15:16:15 -07:00
+  :created_at: 2010/9/15
+:"content/features/translation.md": 
+  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
+  :updated_at: 2010-10-15 14:05:21 -07:00
+  :created_at: 2010/9/18
+:"content/features/multimedia.md": 
+  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
+  :updated_at: 2010-10-15 16:12:22 -07:00
+  :created_at: 2010/9/18
+:"content/interviews/2010/transcripts/interview_6_paulo.md": 
+  :digest: 5c9ef4719d62aa7bf0d2e286920410c1dabd326b
+  :updated_at: 2010-09-26 03:22:13 -07:00
+  :created_at: 2010/9/15
+:"content/2010/01-03-stylesheet_article.haml": 
+  :digest: f2a1d55406e72627d1b85366492f38570f9ff000
+  :updated_at: 2010-06-15 15:14:42 -07:00
+  :created_at: 2010/01/03
+:"content/2010/01-14-markdown-test.md": 
+  :digest: 290196131b48b501ad9c5f340b63039991e490d9
+  :updated_at: 2010-06-15 15:14:42 -07:00
+  :created_at: 2010/01/14
+:"content/tools/ibis.md": 
+  :digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
+  :updated_at: 2010-10-15 17:23:14 -07:00
+  :created_at: 2010/9/18
+:"content/documentation/draft_project_framework.md": 
+  :digest: ade896265d754d0b12fa9a18d7446ff016e8021e
+  :updated_at: 2010-10-15 13:40:10 -07:00
+  :created_at: 2010/9/15
+:"content/tools/vue.md": 
+  :digest: 016de034f374b50d14ad6df4461b7fddc93dfbcc
+  :updated_at: 2010-10-15 16:57:58 -07:00
+  :created_at: 2010/9/18
+:"content/2010/01-13-erb-markdown-test.html.md": 
+  :digest: b0b78b830d428a5ec9015c0decccaf5cde7d6653
+  :updated_at: 2010-06-15 15:14:42 -07:00
+  :created_at: 2010/01/13

@@ -19,7 +19,7 @@ deploy:
 base_url: http://qfi.meedan.net
 
 # currently used by logo
-site_name: Framework for Understanding Technology in International Education
+site_name: QFI Teacher Dashboard
 
 # number of full featured posts to display on front
 featured_count: 0
