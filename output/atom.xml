@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://qfiteachers.net/</id>
+  <title>Dashboard Updates</title>
+  <updated>2010-09-18T07:00:00Z</updated>
+  <link rel="alternate" href="http://qfiteachers.net/"/>
+  <link rel="self" href="http://qfiteachers.net/atom.xml"/>
+  <author>
+    <name>Meedan</name>
+    <uri>http://meedan.net</uri>
+  </author>
+  <entry>
+    <id>tag:qfiteachers.net,2010-09-18:/tools/vue.html</id>
+    <title type="html">VUE</title>
+    <published>2010-09-18T07:00:00Z</published>
+    <updated>2010-10-15T23:57:58Z</updated>
+    <link rel="alternate" href="http://qfiteachers.net/tools/vue.html"/>
+    <content type="html">&lt;p&gt;VUE Screenshot&lt;/p&gt;
+</content>
+    <summary type="html">The Visual Understanding Environment (VUE) is an Open Source project based at Tufts University. The VUE project is focused on creating flexible tools for managing and integrating digital resources in support of teaching, learning and research. VUE provides a flexible visual environment for structuring, presenting, and sharing digital information.</summary>
+  </entry>
+  <entry>
+    <id>tag:qfiteachers.net,2010-09-18:/tools/delicious.html</id>
+    <title type="html">Delicious</title>
+    <published>2010-09-18T07:00:00Z</published>
+    <updated>2010-10-16T00:51:42Z</updated>
+    <link rel="alternate" href="http://qfiteachers.net/tools/delicious.html"/>
+    <content type="html">
+</content>
+    <summary type="html">Delicious is a Yahoo-owned, web-based tool for tagging URLs on the web.</summary>
+  </entry>
+  <entry>
+    <id>tag:qfiteachers.net,2010-09-18:/features/mapping.html</id>
+    <title type="html">Content and Concept Mapping Features</title>
+    <published>2010-09-18T07:00:00Z</published>
+    <updated>2010-10-15T22:48:35Z</updated>
+    <link rel="alternate" href="http://qfiteachers.net/features/mapping.html"/>
+    <content type="html">
+</content>
+    <summary type="html">The content and concept mapping feature for organizing instructional materials for individual courses or entire curricula, creating educational resources, to visualize lessons, consolidate and educational topics in both nonlinear (eg, concept maps) and linear ways (eg, calendaring).</summary>
+  </entry>
+  <entry>
+    <id>tag:qfiteachers.net,2010-09-18:/tools/flickr.html</id>
+    <title type="html">Flickr</title>
+    <published>2010-09-18T07:00:00Z</published>
+    <updated>2010-10-16T00:53:42Z</updated>
+    <link rel="alternate" href="http://qfiteachers.net/tools/flickr.html"/>
+    <content type="html">
+</content>
+    <summary type="html">Flickr is a tool for managing photos and videos, and for forming groups around archives.</summary>
+  </entry>
+  <entry>
+    <id>tag:qfiteachers.net,2010-09-18:/features/multimedia.html</id>
+    <title type="html">Multimedia Management Features</title>
+    <published>2010-09-18T07:00:00Z</published>
+    <updated>2010-10-15T23:12:22Z</updated>
+    <link rel="alternate" href="http://qfiteachers.net/features/multimedia.html"/>
+    <content type="html">
+</content>
+    <summary type="html">Support for multimedia uploading and management for engaging students; to simplify a task that would otherwise be a major technical hurdle.</summary>
+  </entry>
+</feed>
