@@ -34,7 +34,7 @@
     %meta(name="keywords" content="#{keywords}")
     %meta(name="description" content="#{@item[:excerpt]}")
     %link(href="/assets/css/reset.css" rel="stylesheet" type="text/css")
-    %link(href="/assets/css/style.css" media="screen" rel="stylesheet" type="text/css")
+    %link(href="/assets/css/style.css?v=#{Time.now.to_i}" media="screen" rel="stylesheet" type="text/css")
 
   %body
     -# needed since some content render <pre> blocks

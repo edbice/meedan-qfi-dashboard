@@ -8,3 +8,5 @@ javascripts_dir = "javascripts"
 debug_info ="true"
 # To enable relative paths to assets via compass helper functions. Uncomment:
 # relative_assets = true
+
+require "lemonade"

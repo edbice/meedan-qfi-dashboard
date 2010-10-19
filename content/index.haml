@@ -8,6 +8,10 @@ title: Project Framework
 
 #flickr
   %h2 Latest Pictures on Flickr
+  %img(src="assets/images/flickr.png")
+
+#ask
+  %iframe{:src => "http://spreadsheets.google.com/embeddedform?formkey=dGFjc3lLTENCWE8zc00wSlhQa2I3R3c6MQ", :width => "300px", :height => "420px", :frameborder => "0", :marginheight => "0", :marginwidth => "0"} Loading...
 
 #features
   %h2 Features We're Building
@@ -19,11 +23,9 @@ title: Project Framework
   - items_with_tag("tools").each do |item|
     = render('_excerpt', :item => item)
 
--#
-  #teachers
-    %h2 Our Partners
-    - items_with_tag("teacher").each do |item|
-      = render('_excerpt', :item => item)
+#teachers
+  %h2 Who's Involved
+  = render_images('static/assets/images/people')
 
 -# 
   tags = count_tags()

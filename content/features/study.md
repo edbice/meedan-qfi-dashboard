@@ -9,4 +9,7 @@ keywords:
 author: Chris Blow, Meedan
 flickr_set: 72157624424910110
 delicious_tags:
+approved: yes
+started: yes
+status: completed
 ---

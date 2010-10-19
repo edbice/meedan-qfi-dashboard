@@ -174,6 +174,13 @@ def to_month_s(month)
   Date.new(2010, month).strftime("%B")
 end
 
+def render_images(dir)
+  Dir.chdir(dir)
+  Dir.glob('*').each do |i|
+    "<img src='#{dir}/#{i}' title='#{i}' />"
+  end
+end
+
 private
 
 def derive_created_at(item)
